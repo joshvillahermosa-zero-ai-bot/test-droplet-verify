@@ -7,3 +7,7 @@ Public IP: 147.182.178.223
 ## Bot Identity Verified
 
 This commit was authored by the AI assistant on the DigitalOcean droplet.
+
+## Bot Identity Active ✅
+
+All future commits and PRs from this droplet will be attributed to Forge - Zero AI.
